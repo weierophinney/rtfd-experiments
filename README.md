@@ -7,8 +7,8 @@ markdown structures.
 
 - This is a bullet
 
-    ```php
-    echo "This is a fenced code block specifying PHP.";
-    ```
+```php
+echo "This is a fenced code block specifying PHP.";
+```
 
 - This is another bullet
