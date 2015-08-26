@@ -1,0 +1,8 @@
+docs_dir: .
+site_dir: doc/
+pages:
+    - index.md
+site_name: rtd-experiments
+site_description: 'Experiments with RTD mkdocs rendering'
+repo_url: 'https://github.com/weierophinney/rtfd-experiments'
+copyright: 'Copyright (c) 2015 <a href="https://mwop.net/">Matthew Weier O&#39;Phinney</a>'
